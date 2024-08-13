@@ -1,1 +1,1 @@
-print("main")
+from aiogram import Bot, dispatcher, types
